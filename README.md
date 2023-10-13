@@ -35,19 +35,19 @@ Siga as etapas abaixo para executar o sistema:
 1. Clone o repositório em sua máquina local:
 
    ```bash
-   git clone https://github.com/Joyce-Melo/banco-DIO-python.git
+   git clone https://github.com/Joyce-Melo/BancoDIO.git
    ```
 
 2. Navegue até o diretório do projeto:
 
    ```bash
-   cd banco-DIO-python
+   cd BancoDIO
    ```
 
 3. Execute o sistema:
 
    ```bash
-   python banco_DIO.py
+   python desafio01.py
    ```
 
 O sistema será executado no terminal e fornecerá opções para realizar depósitos, saques e extratos.
